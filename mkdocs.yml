@@ -1,0 +1,10 @@
+site_name: John DiFelice - ACT/SAT Prep
+
+theme: 
+  name: readthedocs
+  # custom_dir: 'custom_theme/'
+
+extra_css:
+  - css/extra.css
+  - css/dark.css
+ 

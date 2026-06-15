@@ -1,0 +1,12 @@
+/* Hide the entire left sidebar */
+.wy-nav-side {
+  display: none;
+}
+
+/* Expand the content area to full width */
+.wy-nav-content {
+  margin-left: 0;
+  color: black;
+}
+
+header.md-header { display: none; } /* selector depends on theme */
