@@ -33,7 +33,7 @@ _Me and my son_
 
 - 1 hour session: $50
 - I live in Wadsworth, OH and hold sessions at a library or coffee shop
-- If you want me to come to your home, it will require an additional $20
+- If you want me to come to your home, it will require an additional fee
 - Although in-person instruction is best, I can hold remote sessions
 
 
