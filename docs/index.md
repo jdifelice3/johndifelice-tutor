@@ -3,9 +3,9 @@
 <span style="font-size: 40pt; font-family: Roboto Slab, ff-tisa-web-pro, Georgia, Arial, sans-serif;">JOHN DIFELICE</span>
 ### Want to improve your SAT/ACT Scores? 
 #### Personalized prep is the key to boosting your confidence <br>and your score. I offer tailored strategies for ACT & SAT
-✅ Improve your performance in the grammar, vocabulary, and reading <br>comprehension modules. <br>
-✅ Improve your performance in the math module. <br>
-✅ Learn tips, tricks, and how to best manage your testing time.
+✅ Improve your performance in the grammar, vocabulary, and reading <br>comprehension modules <br>
+✅ Improve your performance in the math module <br>
+✅ Learn tips, tricks, and how to best manage your testing time
 <br>
 
 
